@@ -1590,6 +1590,10 @@ footer {
     .description-contact p {
         width: 100%;
     }
+
+    .container-coach img {
+        width: 100%;
+    }
 }
 
 
@@ -1786,9 +1790,21 @@ footer {
 
 @media (max-width: 375px) {
 
+    .container-mockup img {
+        width: 22rem;
+    }
+
     .container-title-plans h2 {
         font-size: 2.4rem;
     }
+}
+
+@media (max-width: 365px) {
+    .description-contact p {
+        width: 100%;
+    }
+
+    
 }
 
 @media (max-width: 360px) {
