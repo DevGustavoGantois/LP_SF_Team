@@ -1524,6 +1524,12 @@ footer {
     }
 }
 
+@media (max-width: 581px) {
+    .container-coach p {
+        width: 100%;
+    }
+}
+
 @media (max-width: 551px) {
     .description-contact p{
         width: 100%;
@@ -1538,6 +1544,10 @@ footer {
         width: 100%;
     }
 
+    .container-coach {
+        width: 100%;
+    }
+
     .description-contact p {
         width: 100%;
     }
@@ -1548,6 +1558,19 @@ footer {
         width: 100%;
     }
 }
+
+@media (max-width: 510px) {
+    .container-coach p {
+        width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+    .container-coach p {
+        width: 100%;
+    }
+}
+
 
 @media (max-width: 485px) {
 
